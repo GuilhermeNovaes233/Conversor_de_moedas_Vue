@@ -8,12 +8,20 @@ Com base na moeda Real (BRL) é possível obter o valor corresponde em Dólar Am
 
 # 3. Pré Requisitos
 
-É necessário ter o NodeJS instalado npm install
+É necessário ter o NodeJS instalado
+
+```
+npm i @angular/cli
+
+```
 
 # 4. Execução
 
-Com o ambiente do NodeJS instalado, basta iniciar a aplicação com o comando npm run serve
+Com o ambiente do NodeJS instalado, basta iniciar a aplicação com o comando 
 
+  ```
+    npx ng serve ou ng serve
+  ```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
